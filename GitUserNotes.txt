@@ -1,12 +1,11 @@
-  GNU nano 2.7.0                                                                       File: GitUserNotes.txt                                                                       
-Modified  
-
 1. git init <DIRECTORY>
 2. CD into Directory 
 3. Create Readme
 4. git status 
-5. 
-
+5. git add <file>
+5. git commit -m "message"  
+6. git remote add origin <link>
+7. git push -u origin master
 
 
 
